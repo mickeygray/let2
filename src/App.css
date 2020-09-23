@@ -796,6 +796,7 @@ table th {
   }
   .grid-2,
   .grid-3,
+  .grid-2c,
   .grid-4 {
     grid-template-columns: 1fr;
   }
