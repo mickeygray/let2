@@ -35,7 +35,7 @@ const SSI = () => {
           <br />
 
           <h2 className='lead' style={{ color: "red" }}>
-            Distraint Warrant Letter
+            Social Security Levy Notice
           </h2>
           <h3 className='py-1'>
             Pending Legal Action Against American Tax Solutions,
